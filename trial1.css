@@ -1,0 +1,10 @@
+body{
+    /*creating a background color*/
+    /* background-color: #ffff00; */
+    background-image: url(./images/Coffeemaker\ Kitchen\ Timer.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:red;
+
+}
